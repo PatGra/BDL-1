@@ -14,3 +14,5 @@ Check the history of the repository.
 What command should you use to check the repository's history? Write your answer in this readme.
 
 Um den Status zu Prüfen benutz man git status
+Um die Hisory zu prüfen b git log
+
