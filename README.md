@@ -12,3 +12,5 @@ What command should you use to check the status of the repository? Write your an
 Make more changes to the readme file. Use the shorthand command to add and commit changes.
 Check the history of the repository.
 What command should you use to check the repository's history? Write your answer in this readme.
+
+Um den Status zu Prüfen benutz man git status
